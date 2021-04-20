@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image1]: https://user-images.githubusercontent.com/44867889/115240031-50d1fe00-a15a-11eb-8f2c-4206cf4a2899.gif "navigation_random"
+[image2]: https://user-images.githubusercontent.com/44867889/115240016-4ca5e080-a15a-11eb-8368-db0e2273326a.gif "navigation_trained"
 
 # Project 1: Navigation
 
@@ -8,7 +9,10 @@
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
 
-![Trained Agent][image1]
+Random Agent|Trained Agent
+----|----
+![navigation_random][image1]|![navigation_trained][image2]
+
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
